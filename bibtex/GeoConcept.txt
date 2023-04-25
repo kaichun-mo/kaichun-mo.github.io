@@ -1,0 +1,7 @@
+@InProceedings{Weng23GeoConcept,
+    author={Weng, Yijia and Mo, Kaichun and Shi, Ruoxi and Yang, Yanchao and Guibas, Leonidas},
+    title={Toward Learning Geometric Eigen-Lengths Crucial for Fitting Tasks},
+    booktitle = {The Fortieth International Conference on Machine Learning (ICML 2023)},
+    month = {July},
+    year = {2023}
+}
