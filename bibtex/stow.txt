@@ -1,0 +1,6 @@
+@inProceedings{li2023stow,
+    title={{STOW}: Discrete-Frame Segmentation and Tracking of Unseen Objects for Warehouse Picking Robots},
+    author={Li, Yi and Zhang, Muru and Grotz, Markus and Mo, Kaichun and Fox, Dieter},
+    year={2023},
+    booktitle={Conference on Robot Learning (CoRL)}
+}
