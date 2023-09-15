@@ -1,0 +1,6 @@
+@article{ning2023where2explore,
+    Title = {{Where2Explore}: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects},
+    Author = {Ning, Chuanruo and Wu, Ruihai and Lu, Haoran and Mo, Kaichun and Dong, Hao},
+    Eprint = {arXiv:2309.07473},
+    Year = {2023}
+}
