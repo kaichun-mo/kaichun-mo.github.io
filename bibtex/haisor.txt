@@ -1,0 +1,6 @@
+@article{Sun23HAISOR,
+    title={{HAISOR}: Human-Aware 3D Indoor Scene layout optimization},
+    author={Sun, Jia-Mu and Yang, Jie and Mo, Kaichun and Lai, Yu-Kun and Guibas, Leonidas J and Gao, Lin},
+    journal={ACM Transactions on Graphics (ToG)},
+    year={2023}
+}
