@@ -1,6 +1,7 @@
-@article{li2023jointAssembly,
-    Title={Category-Level Multi-Part Multi-Joint 3D Shape Assembly},
-    Author={Li, Yichen and Mo, Kaichun and Duan, Yueqi and Wang, He and Zhang, Jiequan and Shao, Lin and Matusik, Wojciech and Guibas, Leonidas},
-    Eprint = {arXiv:2303.06163},
-    Year={2023}
+@InProceedings{li2024jointAssembly,
+    title = {Category-Level Multi-Part Multi-Joint 3D Shape Assembly},
+    author = {Li, Yichen and Mo, Kaichun and Duan, Yueqi and Wang, He and Zhang, Jiequan and Shao, Lin and Matusik, Wojciech and Guibas, Leonidas},
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2024}
 }
