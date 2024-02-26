@@ -1,4 +1,4 @@
-@InProceedings{li2024jointAssembly,
+@InProceedings{pasca2024transfusion,
     title = {Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation},
     author = {Pasca, Razvan and Gavryushin, Alexey and Hamza, Muhammad and Kuo, Yen-Ling and Mo, Kaichun and Van Gool, Luc and Hilliges, Otmar and Wang, Xi},
     booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
