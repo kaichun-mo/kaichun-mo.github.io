@@ -1,0 +1,6 @@
+@inProceedings{wang2025matchmaker,
+    title={{MatchMaker}: Automated Robotic Assembly Asset Generation for Policy Learning in Simulation},
+    author={Wang, Yian and Akinola, Iretiayo and Mo, Kaichun and Tang, Bingjie and Gan, Chuang and Fox, Dieter and Narang, Yashraj},
+    year={2025},
+    booktitle={IEEE International Conference on Robotics & Automation (ICRA)}
+}

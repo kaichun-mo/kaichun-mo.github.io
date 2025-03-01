@@ -1,0 +1,7 @@
+@InProceedings{Qian_2025_CVPR,
+    author = {Qian, Shengyi and Mo, Kaichun and Blukis, Valts and Fouhey, David and Fox, Dieter and Goyal, Ankit},
+    title = {{3D-MVP}: 3D Multiview Pretraining for Robotic Manipulation},
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2025}
+}
