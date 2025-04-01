@@ -1,0 +1,7 @@
+@article{gavryushin2025sight,
+  title={{SIGHT}: Single-Image Conditioned Generation of Hand Trajectories for Hand-Object Interaction},
+  author={Gavryushin, Alexey and Redhardt, Florian and Di Lorenzo, Gaia and Van Gool, Luc and Pollefeys, Marc and Mo, Kaichun and Wang, Xi},
+  journal={arXiv preprint arXiv:2503.22869},
+  year={2025}
+}
+
