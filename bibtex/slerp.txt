@@ -1,0 +1,7 @@
+@article{shan2025slerp,
+  title={Slot-Level Robotic Placement via Visual Imitation from Single Human Video},
+  author={Shan, Dandan and Mo, Kaichun and Yang, Wei and Chao, Yu-Wei and Fouhey, David and Fox, Dieter and Mousavian, Arsalan},
+  journal={arXiv preprint arXiv:2504.01959},
+  year={2025}
+}
+
