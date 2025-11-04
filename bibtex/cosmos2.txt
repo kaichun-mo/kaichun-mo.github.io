@@ -1,0 +1,7 @@
+@article{cosmos2,
+  title={{World Simulation with Video Foundation Models for Physical AI}},
+  author={NVIDIA Cosmos Team},
+  journal={arXiv preprint arXiv:2511.00062},
+  year={2025}
+}
+
