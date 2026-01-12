@@ -1,0 +1,6 @@
+@article{pointworld,
+  title={{PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation}},
+  author={Huang, Wenlong and Chao, Yu-Wei and Mousavian, Arsalan and Liu, Ming-Yu and Fox, Dieter and Mo, Kaichun and Fei-Fei, Li},
+  journal={arXiv preprint arXiv:2601.03782},
+  year={2026}
+}
