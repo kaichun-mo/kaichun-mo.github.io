@@ -1,0 +1,6 @@
+@article{cosmos3,
+  title={{Cosmos 3: Omnimodal World Models for Physical AI}},
+  author={NVIDIA Cosmos Team},
+  year={2026}
+}
+
