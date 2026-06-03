@@ -1,6 +1,7 @@
-@article{cosmos3,
-  title={{Cosmos 3: Omnimodal World Models for Physical AI}},
-  author={NVIDIA Cosmos Team},
-  year={2026}
+@article{nvidia2026cosmos3,
+  title = {Cosmos 3: Omnimodal World Models for Physical AI},
+  author = {{NVIDIA}},
+  journal = {arXiv preprint arXiv:2606.02800},
+  year = {2026},
+  url = {https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf}
 }
-
