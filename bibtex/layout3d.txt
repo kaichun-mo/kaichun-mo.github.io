@@ -1,0 +1,6 @@
+@article{zhen2026layoutR1,
+    title={{3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing}},
+    author={Zhen, Haoyu and Li, Xiaolong and Zhao, Yilin and Zhang, Hao and Liu, Sifei and Mo, Kaichun and Gan, Chuang and Radhakrishnan, Subhashree},
+    journal={European conference on computer vision (ECCV)},
+    year={2026}
+}
